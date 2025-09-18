@@ -6,6 +6,7 @@ public class Main {
                 {1,2,3},
                 {4,5,6},
         };
+
         double[][] data2 = {
                 {1,2},
                 {3,4},
